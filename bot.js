@@ -40,7 +40,7 @@ const client = new Client({
 });
 
 // Owner number (replace with your number in international format)
-const OWNER_NUMBER = '1234567890@c.us'; // Example: '1234567890@c.us'
+const OWNER_NUMBER = '+94760761047'; // Example: '1234567890@c.us'
 
 // Store allowed groups and users
 const allowedGroups = new Set();
